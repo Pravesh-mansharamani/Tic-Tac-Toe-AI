@@ -11,6 +11,11 @@ A minimax algorithm is a recursive program written to find the best gameplay tha
 
 ![image](https://user-images.githubusercontent.com/97941488/218936945-9796bea3-110f-4c69-bbcf-8bf40bd91aab.png)
 
+![image](https://user-images.githubusercontent.com/97941488/218937146-f0e7d034-2316-4aa2-9269-b2d89495fec6.png)
+
+## More indepth article on how does minmax algorithm works:
+https://www.freecodecamp.org/news/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37
+
 
 
 
